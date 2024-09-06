@@ -1,0 +1,6 @@
+**/.idea/
+**/pubspec.lock
+.DS_Store
+.vscode/settings.json
+libphonenumber_plugin/example/.fvm/flutter_sdk
+libphonenumber_plugin/example/.fvm/fvm_config.json
